@@ -24,3 +24,4 @@ jobs:
           botToken: ${{ secrets.botToken }}
           chatID: ${{ secrets.chatID }}
           sosad_cookie: ${{ secrets.sosad_cookie }}
+ 
